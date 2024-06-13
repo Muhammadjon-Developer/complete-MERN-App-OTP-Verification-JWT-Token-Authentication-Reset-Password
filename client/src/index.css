@@ -10,4 +10,5 @@
 body {
   background-color: #dcdce6;
   background-image: url(./assets/Background.png);
+  background-size: contain;
 }
